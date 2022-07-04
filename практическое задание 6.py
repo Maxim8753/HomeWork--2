@@ -18,6 +18,3 @@ while True:
     for key, value in analitics_dict.items():
         print(f'{key[:20]:>15}:{value}')
     print('-' * 30)
-
-
-

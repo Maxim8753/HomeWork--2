@@ -1,7 +1,6 @@
 data_list = [12, True , 'Hello', 3.14]
 
 print(type(data_list))
-
 print(type(data_list[0]))
 print(type(data_list[1]))
 print(type(data_list[2]))
