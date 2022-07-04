@@ -21,5 +21,6 @@ print(Slise_1)
 print(Slise_2)
 print(Slise_3)
 
+
 data_list.extend(data_list_1)
 print(data_list)
