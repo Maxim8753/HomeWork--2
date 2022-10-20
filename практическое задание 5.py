@@ -9,5 +9,6 @@ for n in number_list:
         break
 number_list.insert(i, new_el)
 
+
 print(number_list)
 print(max(number_list))
