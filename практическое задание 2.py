@@ -16,6 +16,7 @@ Slise_1 = data_list[1:2] + data_list_1[1:2]
 Slise_2 = data_list[2:3] + data_list_1[2:3]
 Slise_3 = data_list[3:] + data_list_1[3:]
 
+
 print(Slise)
 print(Slise_1)
 print(Slise_2)
